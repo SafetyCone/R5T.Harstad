@@ -1,0 +1,2 @@
+# R5T.Harstad
+A package version selector library for the "Microsoft.Extensions.Hosting" NuGet package.
